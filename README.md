@@ -1,6 +1,6 @@
 # 🌟 Thrive – Empowering Student Entrepreneurs
 
-![Thrive Banner](./assets/images/about-banner.jpeg)
+
 
 **Thrive** is a student-driven platform dedicated to celebrating and supporting student-run businesses within Sathyabama University. Developed using HTML, CSS, and JavaScript, Thrive offers an interactive web experience that elevates entrepreneurship, fosters collaboration, and connects talent with opportunity.
 
